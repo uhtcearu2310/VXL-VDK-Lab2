@@ -1,0 +1,4 @@
+led_matrix.c:18:6:displayLEDMatrix	16	static
+led_matrix.c:30:6:enableLEDMatrix	16	static
+led_matrix.c:42:6:updateLEDMatrix	16	static
+led_matrix.c:82:6:shiftLeftLEDMatrix	16	static

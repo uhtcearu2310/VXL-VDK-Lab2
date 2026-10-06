@@ -1,0 +1,4 @@
+led7seg.c:32:6:display7SEG	16	static
+led7seg.c:45:6:enable7SEG	16	static
+led7seg.c:53:6:update7SEG	16	static
+led7seg.c:77:6:updateClockBuffer	4	static
